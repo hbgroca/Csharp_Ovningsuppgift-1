@@ -12,24 +12,28 @@
         // TEST PRODUKTER, KOMMENTERA BORT OM DU INTE VILL HA MED VID START
         {
             new Product(){
-                ProductName = "Kondomer", 
-                ProductPrice = 129.90
+                ProductName = "Äggakaga", 
+                ProductPrice = 69.90
             },
             new Product(){
-                ProductName = "Glidmedel", 
-                ProductPrice = 79.50
+                ProductName = "Skånsk senap",
+                ProductPrice = 42.90
             },
             new Product(){
-                ProductName = "Dubbeldildo", 
-                ProductPrice = 339.90
+                ProductName = "Kagor till kaffet", 
+                ProductPrice = 31.90
             },
             new Product(){
-                ProductName = "Latexlakan",
-                ProductPrice = 748.35
+                ProductName = "Rägglar", 
+                ProductPrice = 49.90
             },
             new Product(){
-                ProductName = "Långt ner i halsen 4, extended edition",
-                ProductPrice = 199.90
+                ProductName = "Spiddekaga",
+                ProductPrice = 99.90
+            },
+            new Product(){
+                ProductName = "Päror / Kartoffler",
+                ProductPrice = 44.70
             }
         };
 
