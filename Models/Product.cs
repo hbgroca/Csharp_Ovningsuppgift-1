@@ -53,7 +53,6 @@ namespace ÖVNINGSUPPGIFT___SHOPPINGLISTA.Models
 
             // Vi kan också passa på att köra kod i samband med att konstruktorn skapas.
             Console.WriteLine($"Grattis, du har lagt till {productName} i shoppinglistan!");
-
         }
 
         // Metoder
