@@ -1,2 +1,4 @@
-# Csharp-OvningsUppgiftEtt
+# Csharp Övningsuppgift 1
+
+- Shopping lista
  
